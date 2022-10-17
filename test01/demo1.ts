@@ -15,7 +15,7 @@
 // 然后vscode工具栏  点击 终端  >>>  运行任务...  >>>  typescript  >>>  tsc:监视 - test01/tsconfig.json
 // 此时终端会生成一个监视的线程  当我们编辑ts文件后点击保存即可实时更新至js文件夹下的相应文件（可理解为热更新）
 let str:string = '路佳宇要学ts'
-let str1:string = '邱诗梦和别人吃饭去了'
+let str1:string = '王五和别人吃饭去了'
 let str2:string = '我就再学习一会吧'
 console.log(str);
 console.log(str1);

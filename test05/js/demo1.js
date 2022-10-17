@@ -22,7 +22,7 @@ let p = new Personal('路佳宇');
 // 执行实例化后的方法
 p.run();
 console.log(p.getName());
-console.log(p.setName('邱诗梦'));
+console.log(p.setName('王五'));
 // 2、ts中   如何实现继承   两个关键字  extends、super
 class GetInfo extends Personal {
     constructor(name) {

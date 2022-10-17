@@ -23,7 +23,7 @@ let p = new Personal('路佳宇')
 // 执行实例化后的方法
 p.run()
 console.log(p.getName())
-console.log(p.setName('邱诗梦'))
+console.log(p.setName('王五'))
 
 
 
