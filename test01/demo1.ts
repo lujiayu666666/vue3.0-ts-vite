@@ -6,7 +6,7 @@
  * @FilePath: /tsTest/test02/demo1.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
-
+//第一天
 // ts语法是不能被node、浏览器所编译   所以要转成js语法文件
 // 可通过命令行 [tsc 文件名.ts] 进行编译，编译成功后会自动生成 相同文件名的.js
 // 控制面板cd到相应的文件目录下  
