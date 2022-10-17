@@ -1,4 +1,5 @@
 "use strict";
+//第五天
 // 1、ts中定义类及使用
 class Personal {
     constructor(name) {
