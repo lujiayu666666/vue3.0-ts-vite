@@ -13,7 +13,7 @@
 
 // 定义标准   
 // 1.属性接口
-//第七天
+//第七天 
 interface fullName { //可复用  进行批量约束   也就是可以同时对函数A、函数B进行约束
   firstName: string
   lastName: string
