@@ -45,10 +45,10 @@ class Cat {
         this.arr = arr;
     }
     eat(food) {
-        return `${this.name}吃${food}，${this.arr.reduce((a, b) => a + b)}`;
+        return `${this.name}吃${food}，${this.arr.reduce((a, b) => a * b)}`;
     }
 }
-let c = new Cat('小白', [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]);
+let c = new Cat('小白', [1, 2, 3, 4, 5, 6, 7, 8, 9]);
 console.log(c.eat('猫粮'));
 // 此时结合之前学的ts类+继承+属性接口+函数接口  做一个回顾以及练习
 class Personal {

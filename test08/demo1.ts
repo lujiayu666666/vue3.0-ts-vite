@@ -103,11 +103,11 @@ class Cat implements Animal{
     this.arr = arr
   }
   eat(food: string): string {
-    return `${this.name}吃${food}，${this.arr.reduce((a: number, b: number) => a + b)}`
+    return `${this.name}吃${food}，${this.arr.reduce((a: number, b: number) => a * b)}`
   }
 }
 
-let c = new Cat('小白', [1,2,3,4,5,6,7,8,9,0])
+let c = new Cat('小白', [1,2,3,4,5,6,7,8,9])
 console.log(c.eat('猫粮'));
 
 
