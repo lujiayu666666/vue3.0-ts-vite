@@ -2,12 +2,13 @@
  * @Author: lujiayu lujiayu@shiqiao.com
  * @Date: 2022-10-19 22:35:40
  * @LastEditors: lujiayu lujiayu@shiqiao.com
- * @LastEditTime: 2022-10-23 19:41:38
+ * @LastEditTime: 2022-10-23 21:26:13
  * @FilePath: /vue3.0-ts-vite/test09/demo1.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
 // ts中接口扩展    接口可以继承接口
 
+// 第九天学习
 
 interface Animal {
   eat(): void
