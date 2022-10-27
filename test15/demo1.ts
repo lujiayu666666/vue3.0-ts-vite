@@ -3,7 +3,7 @@
  * @Author: lujiayu lujiayu@shiqiao.com
  * @Date: 2022-10-27 16:08:19
  * @LastEditors: lujiayu lujiayu@shiqiao.com
- * @LastEditTime: 2022-10-27 17:32:01
+ * @LastEditTime: 2022-10-27 21:09:12
  * @FilePath: /vue3.0-ts-vite/test15/demo1.ts
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -104,7 +104,9 @@ a.getData()
  * 属性装饰器表法式会在运行时当做函数调用，传入下列2个参数
  * 1.对静态成员来说是类的构造函数，对于实例成员是类的原型对象
  * 2.成员名字
+ * 示例看图片
  */
+
 
  
 
